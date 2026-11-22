@@ -17,6 +17,7 @@
   <a href="mailto:ajayyadav.mit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL_ME-22c55e?style=for-the-badge&logo=gmail&logoColor=0d1117"></a>
   <a href="https://www.linkedin.com/in/ajay-yadav-7459073/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-1f2937?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/ajayyadavmit?tab=repositories"><img alt="My code" src="https://img.shields.io/badge/MY_CODE-1f2937?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://ajayyadav.com.np/"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </p>
 
 ---
@@ -35,10 +36,11 @@ I research and design **Computer Science curriculum for PK–12**, manage **EdTe
 
 | Area | What it looks like in practice |
 |---|---|
-| **CS curriculum PK–12** | Scope and sequence, competency maps, lesson and assessment design |
+| **CS curriculum Development** | Scope and sequence, competency maps, lesson and assessment design |
 | **AI for educators** | Hands-on workshops and multi-day programmes for teachers and academic leaders |
-| **EdTech and FinTech delivery** | Product requirements, roadmaps, stakeholder updates, sprint planning |
-| **Research and writing** | Training reports, project findings, lessons learned, practitioner blogs |
+| **EdTech Project** | Product requirements, roadmaps, Usability Testing |
+| **Research and writing** | Training reports, Pre-Post Test, Practitioner blogs |
+| **Game Development** | Educational Game Development Concept to Market |
 
 ---
 
@@ -48,9 +50,9 @@ I research and design **Computer Science curriculum for PK–12**, manage **EdTe
 
 | Project | What it is |
 |---|---|
-| [**CS & AI Education Digest**](https://github.com/ajayyadavmit/YOUR-REPO-NAME) | A daily digest of CS and AI education articles, refreshed automatically with GitHub Actions |
+| [**CS & AI Education Digest**](https://github.com/ajayyadavmit/cs_ai_education) | A daily digest of CS and AI education articles, refreshed automatically with GitHub Actions |
 | [**Word Completion Game**](https://github.com/ajayyadavmit/YOUR-REPO-NAME) | A browser game that teaches spelling and vocabulary (A\_\_LE → APPLE), built with HTML, JSON data and GitHub Pages |
-| [**AI for Educators course**](https://github.com/ajayyadavmit/YOUR-REPO-NAME) | A 2-day training plan for primary and secondary teachers, with materials and outcomes |
+| [**AI for Educators course**](https://docs.google.com/document/d/1hFWWpTdiLl0I6488-Io5Xhbe-THFQqa_Q-1L9PG1naU/edit?tab=t.drv2du50ql1e#heading=h.wwtplhu706ca) | A 2-day training plan for primary and secondary teachers |
 
 ---
 
