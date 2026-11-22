@@ -63,12 +63,12 @@ I research and design **Computer Science curriculum for PK–12**, manage **EdTe
 ![EdTech](https://img.shields.io/badge/EDTECH-1f2937?style=for-the-badge)
 ![Teacher Training](https://img.shields.io/badge/TEACHER_TRAINING-1f2937?style=for-the-badge)
 
-![HTML](https://img.shields.io/badge/HTML-22c55e?style=flat-square&logo=html5&logoColor=0d1117)
-![CSS](https://img.shields.io/badge/CSS-22c55e?style=flat-square&logo=css3&logoColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-22c55e?style=flat-square&logo=javascript&logoColor=0d1117)
-![Python](https://img.shields.io/badge/PYTHON-22c55e?style=flat-square&logo=python&logoColor=0d1117)
-![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-22c55e?style=flat-square&logo=githubactions&logoColor=0d1117)
-![GitHub Pages](https://img.shields.io/badge/GITHUB_PAGES-22c55e?style=flat-square&logo=github&logoColor=0d1117)
+[![HTML](https://img.shields.io/badge/HTML-22c55e?style=flat-square&logo=html5&logoColor=0d1117)](https://github.com/ajayyadavmit?tab=repositories&language=html)
+[![CSS](https://img.shields.io/badge/CSS-22c55e?style=flat-square&logo=css3&logoColor=0d1117)](https://github.com/ajayyadavmit?tab=repositories&language=css)
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-22c55e?style=flat-square&logo=javascript&logoColor=0d1117)](https://github.com/ajayyadavmit?tab=repositories&language=javascript)
+[![Python](https://img.shields.io/badge/PYTHON-22c55e?style=flat-square&logo=python&logoColor=0d1117)](https://github.com/ajayyadavmit?tab=repositories&language=python)
+[![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-22c55e?style=flat-square&logo=githubactions&logoColor=0d1117)](https://github.com/features/actions)
+[![GitHub Pages](https://img.shields.io/badge/GITHUB_PAGES-22c55e?style=flat-square&logo=github&logoColor=0d1117)](https://pages.github.com)
 
 ---
 
