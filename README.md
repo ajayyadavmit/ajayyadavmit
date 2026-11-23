@@ -44,15 +44,15 @@ I research and design **Computer Science curriculum for PK–12**, manage **EdTe
 
 ---
 
-## 🛠️ Featured work
+## 🛠️ Projects
 
 <!-- REPLACE each YOUR-REPO-NAME with the real repository name, then pin these on your profile -->
 
-| Project | What it is |
-|---|---|
-| [**CS & AI Education Digest**](https://github.com/ajayyadavmit/cs_ai_education) | A daily digest of CS and AI education articles, refreshed automatically with GitHub Actions |
-| [**Word Completion Game**](https://github.com/ajayyadavmit/YOUR-REPO-NAME) | A browser game that teaches spelling and vocabulary (A\_\_LE → APPLE), built with HTML, JSON data and GitHub Pages |
-| [**AI for Educators course**](https://docs.google.com/document/d/1hFWWpTdiLl0I6488-Io5Xhbe-THFQqa_Q-1L9PG1naU/edit?tab=t.drv2du50ql1e#heading=h.wwtplhu706ca) | A 2-day training plan for primary and secondary teachers |
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **CS & AI Education Digest** | A daily digest of CS and AI education articles, refreshed automatically with GitHub Actions | [Live Demo](https://ajayyadavmit.github.io/cs_ai_education/) • [Code](https://github.com/ajayyadavmit/cs_ai_education) |
+| **Word Completion Game** | A game that teaches spelling and vocabulary (A\_\_LE → APPLE)| [Live Demo](https://ajayyadavmit.github.io/Game_word/) • [Code](https://github.com/ajayyadavmit/Game_word) |
+| **AI for Educators Course** | A 5-day training plan for AI Education: Teachers/ Educators | [Course Plan](https://docs.google.com/document/d/1hFWWpTdiLl0I6488-Io5Xhbe-THFQqa_Q-1L9PG1naU/edit?tab=t.drv2du50ql1e#heading=h.wwtplhu706ca) |
 
 ---
 
