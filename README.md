@@ -50,9 +50,11 @@ I research and design **Computer Science curriculum for PK–12**, manage **EdTe
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| **CS & AI Education Digest** | A daily digest of CS and AI education articles, refreshed automatically with GitHub Actions | [Live Demo](https://ajayyadavmit.github.io/cs_ai_education/) • [Code](https://github.com/ajayyadavmit/cs_ai_education) |
-| **Word Game Github Action** | A game that teaches spelling and vocabulary (A\_\_LE → APPLE)| [Live Demo](https://ajayyadavmit.github.io/Game_word/) • [Code](https://github.com/ajayyadavmit/Game_word) |
-| **Word Game Firebase** | A game that teaches spelling and vocabulary (A\_\_LE → APPLE)| [Live Demo](https://ajayyadavmit.github.io/wordgame_db_firebase/) • [Code](https://github.com/ajayyadavmit/wordgame_db_firebase) |
+| **CS & AI Education Digest** | A daily digest of CS and AI education articles, refreshed automatically with GitHub Actions | [ Application](https://ajayyadavmit.github.io/cs_ai_education/) • [Code](https://github.com/ajayyadavmit/cs_ai_education) |
+
+| **Word Game Github Action** | A game that teaches spelling and vocabulary (A\_\_LE → APPLE)| [ Application](https://ajayyadavmit.github.io/Game_word/) • [Code](https://github.com/ajayyadavmit/Game_word) |
+| **Word Game Firebase** | A game that teaches spelling and vocabulary (A\_\_LE → APPLE)| [ Application](https://ajayyadavmit.github.io/wordgame_db_firebase/) • [Code](https://github.com/ajayyadavmit/wordgame_db_firebase) |
+| **Math AI** | A game that teaches concepts of Mathematics & AI| [ Application](https://ajayyadavmit.github.io/game_math_ai/) • [Code](https://github.com/ajayyadavmit/game_math_ai) |
 | **AI for Educators Course** | A 5-day training plan for AI Education: Teachers/ Educators | [Course Plan](https://docs.google.com/document/d/1hFWWpTdiLl0I6488-Io5Xhbe-THFQqa_Q-1L9PG1naU/edit?tab=t.drv2du50ql1e#heading=h.wwtplhu706ca) |
 
 ---
