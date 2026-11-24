@@ -51,7 +51,6 @@ I research and design **Computer Science curriculum for PK–12**, manage **EdTe
 | Project | Description | Links |
 | :--- | :--- | :--- |
 | **CS & AI Education Digest** | A daily digest of CS and AI education articles, refreshed automatically with GitHub Actions | [ Application](https://ajayyadavmit.github.io/cs_ai_education/) • [Code](https://github.com/ajayyadavmit/cs_ai_education) |
-
 | **Word Game Github Action** | A game that teaches spelling and vocabulary (A\_\_LE → APPLE)| [ Application](https://ajayyadavmit.github.io/Game_word/) • [Code](https://github.com/ajayyadavmit/Game_word) |
 | **Word Game Firebase** | A game that teaches spelling and vocabulary (A\_\_LE → APPLE)| [ Application](https://ajayyadavmit.github.io/wordgame_db_firebase/) • [Code](https://github.com/ajayyadavmit/wordgame_db_firebase) |
 | **Math AI** | A game that teaches concepts of Mathematics & AI| [ Application](https://ajayyadavmit.github.io/game_math_ai/) • [Code](https://github.com/ajayyadavmit/game_math_ai) |
